@@ -2,9 +2,9 @@
 
 Täytä omat tiedot tähän
 
-## Nimi
+## Emil Riihiranta
 
-## Opiskelijanumero
+## 943497
 
 ## Linkki netissä pyörivään sivustoon
 
