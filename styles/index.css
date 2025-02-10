@@ -599,6 +599,8 @@ button:hover {
 
   .project-showcase {
     max-height: 60vh;
+
+    gap: 3vw;
   }
 
   .project-showcase img {
@@ -620,6 +622,7 @@ button:hover {
     max-width: 25vw;
     max-height: 40vh;
     margin-left: 4px;
+
   }
 
 }
