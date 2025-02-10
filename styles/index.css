@@ -59,6 +59,11 @@ button {
   
 }
 
+.move-link {
+  width: 14vw + 300px;
+
+}
+
 .back-button-section {
   display: flex;
 
@@ -77,11 +82,15 @@ button {
   margin-top: 10px;
   margin-bottom: 10px;
 
+  
+
 }
 
 .move-button {
-  width: 60%;
-  height: 2vh;
+
+  width: 8vw;
+  height: 2.2vw;
+
   color: red;
   border: 1px solid black;
   font-weight: bold;
@@ -225,6 +234,8 @@ footer a{
   gap: 6px;
 
   overflow: hidden;
+
+  padding-bottom: 8px;
   
 }
 
@@ -389,6 +400,8 @@ button:hover {
     height: 15vh; 
     overflow: hidden;
 
+    padding-bottom: 6px;
+
   }
 
   .project p {
@@ -404,8 +417,8 @@ button:hover {
   }
 
   .move-button {
-    width: 60%;
-    height: 1.5vh;
+    width: 10vw;
+    height: 1.8vh;
     color: red;
     border: 1px solid black;
     font-weight: medium;
@@ -413,9 +426,13 @@ button:hover {
     text-align: center;
   
     padding: 0px;
-    margin: 0px;
   
     font-size: 7px;
+  }
+
+  .move-link {
+    margin-bottom: 0px;
+    
   }
 
   .projects::-webkit-scrollbar {
@@ -493,7 +510,7 @@ button:hover {
   .about-me {
     max-width: 30vw;
     height: 50vw;
-    max-height: 700px;
+    max-height: 450px;
 
     border: 3px solid black;
   }
@@ -506,7 +523,16 @@ button:hover {
 
     margin: 10px;
 
+    padding-bottom: 15px;
+
   }
+
+  .move-button {
+    height: 3vh;
+    width: 7vw;
+  }
+
+  
 
   .profile-pic {
     width: 15vw;
@@ -516,11 +542,11 @@ button:hover {
   }
 
   .information {
-    font-size: 18px;
+    font-size: 16px;
 
-    line-height: 1.6;
+    line-height: 1.5;
 
-    letter-spacing: 1px;
+    letter-spacing: 2px;
 
   }
 
@@ -549,14 +575,24 @@ button:hover {
     font-size: 1vw;
   }
 
+  .move-link {
+    width: 14vw;
+    height: 5vh;
+
+    font-size: 1vw;
+  
+  }
+
   .content{
     justify-content: space-around;
   }
 
   .back-button {
-    width: 18vw;
-    height: 4vw;
+    width: 16vw;
+    height: 3.5vw;
     font-size: 16px;
+
+    
   }
 
   .project-showcase {
@@ -564,8 +600,13 @@ button:hover {
   }
 
   .project-showcase img {
-    width: 20vw;
-    height: 20vw;
+    width: 17vw;
+    height: 17vw;
+
+    max-width: 150px;
+    max-height: 150px;
+
+    
 
   }
   
