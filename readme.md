@@ -6,7 +6,7 @@ Täytä omat tiedot tähän
 
 ## 943497
 
-## Linkki netissä pyörivään sivustoon ->
+## Linkki netissä pyörivään sivustoon -> https://32lime.github.io/portfolio/index.html
 
 ## Mitkä asiat teit
  Muutin alkuperäisen figmadesignini html ja css muotoon. Kiinnitin myös aika paljon huomiota responsiivisuuteen tekemällä 2 breakpointtia ja käyttämällä paljon responsiivisia yksiköitä elementtien mitoille. Hankin oman faviconin ja linkkasin sen html tiedostoon. Laitoin kuviin alt tagit ja pyrin tekemään html ja css tiedostoista luettavia.
