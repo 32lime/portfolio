@@ -510,7 +510,7 @@ button:hover {
   .about-me {
     max-width: 30vw;
     height: 50vw;
-    max-height: 450px;
+    max-height: 600px;
 
     border: 3px solid black;
   }
@@ -530,6 +530,8 @@ button:hover {
   .move-button {
     height: 3vh;
     width: 7vw;
+
+    max-width: 60px;
   }
 
   
